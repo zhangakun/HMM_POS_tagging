@@ -7,7 +7,7 @@
 > 
 > [TOC]
 
-似乎github解析不了LaTeX公式，点击[这里]()查看html形式 
+似乎github解析不了markdown里的LaTeX公式，点击[这里](https://zenuora.github.io/HMM_POS_tagging/README.html)查看html形式 
 
 ## 文件结构
 
