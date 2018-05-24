@@ -3,8 +3,11 @@
 > 
 > 编写环境: Python-3.6 macOS-10.13
 > 
+> 
+> 
 > [TOC]
 
+似乎github解析不了LaTeX公式，点击[这里]()查看html形式 
 
 ## 文件结构
 
